@@ -1,0 +1,15 @@
+Admin Panel
+        Login Page 
+                username 
+                password
+        
+        1 Add restaurant
+                From 
+        
+        2. Menu Items List Of restaurant
+
+        3. Meal Type
+                Name
+                Desc
+                Upload Image
+         

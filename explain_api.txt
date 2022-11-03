@@ -1,0 +1,19 @@
+# GET /get-location
+# GET /get-restaurant-by-location-id
+# GET /get-meal-types
+# GET /get-restaurant-details-by-id
+# GET /get-menu-item-list-by-restaurant-id
+
+POST /filter
+        meal-type (mandatory)
+        location
+        Cuisine
+        hcost - lcost
+        sort
+        page
+
+# POST /login
+# POST /sign-up
+
+POST /payment
+POST /save-order
